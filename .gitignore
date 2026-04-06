@@ -1,0 +1,4 @@
+bin/
+log_*.txt
+*.class
+.DS_Store
